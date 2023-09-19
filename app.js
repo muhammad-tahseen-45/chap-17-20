@@ -103,36 +103,29 @@
 
 // 11
 
- var list = [1,2,3,4,5,6,7,8,9,];
- var matchFound = false;
+// var list = [1,2,3,4,5,6,7,8,9,];
+// var matchFound = false;
 
- var userInput = +prompt("enter the number");
+// var userInput = +prompt("enter the number");
 
- for ( var u = 0 ; u<list.length ; u++){
-    if(userInput === list[u]){
-        alert("match found");
-        matchFound = true ;
-        break
+// for ( var u = 0 ; u<list.length ; u++)    if(userInput === list[u])        alert("match found");
+//        matchFound = true         break
  
-    }
-    else{
-        alert("note found")
-    }
- }
+//    }
+//    else{
+//        alert("note found")
+//    }
+// }
 
     
 // 12
 
 
+//var firstArr = ["a", "b", "c", "d", "e", "f"];
+//var secondArr = [1, 2, 3, 4, 5, 6];
 
-
-
-
-
-
-
-
-
-
-
-
+//for (var i = 0; i < firstArr.length; i++) {
+//  for (var j = 0; j < secondArr.length; j++) {
+//    console.log(firstArr[i] + secondArr[j]);
+  }
+}
